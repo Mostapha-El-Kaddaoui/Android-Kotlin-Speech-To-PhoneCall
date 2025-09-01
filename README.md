@@ -22,7 +22,7 @@ The app requires the following Android permissions:
 4. If a match is found, the app displays the contact information and automatically makes a phone call if permission is granted.
 5. All contacts are displayed in a list on the main screen.
 
-![SpeechToCall](./speechtocall.png)
+![SpeechToCall](./speechcall.png)
 
 ---
 Copyright © 2025, All Rights Reserved For ELKADDI-Solutions
